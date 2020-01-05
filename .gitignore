@@ -16,6 +16,5 @@ CaptchaImages
 CorrectIncorrect
 GujratImages
 PatnaCaptchaScreenShots
-SampleImages
 *.zip
 *.pyc
